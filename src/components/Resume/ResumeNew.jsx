@@ -9,7 +9,7 @@ import "react-pdf/dist/esm/Page/AnnotationLayer.css";
 pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.min.js`;
 
 const resumeLink =
-  "https://raw.githubusercontent.com/ibrahimnady/portfolio/main/src/Assets/CV-ibrahim-nady.pdf";
+  "https://raw.githubusercontent.com/ibrahimnady/protofilo-official/main/src/Assets/CV-ibrahim-nady.pdf";
 // const resumeLink =
 // "http://localhost:3000/static/media/CV-ibrahim-nady.c788a70bda65f5a828b6.pdf";
 
