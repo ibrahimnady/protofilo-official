@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/protofilo-official/static/css/main.d3e3a519.css",
-    "main.js": "/protofilo-official/static/js/main.1994c2bd.js",
+    "main.js": "/protofilo-official/static/js/main.ed05385f.js",
     "static/js/787.5c0b2d12.chunk.js": "/protofilo-official/static/js/787.5c0b2d12.chunk.js",
     "static/media/Movi_nexo.png": "/protofilo-official/static/media/Movi_nexo.ef6fbd92f8db89e99cde.png",
     "static/media/curd-name.png": "/protofilo-official/static/media/curd-name.edd805dd3e2119424fee.png",
@@ -34,11 +34,11 @@
     "static/media/pre.svg": "/protofilo-official/static/media/pre.4410c5baaa673cc131da.svg",
     "index.html": "/protofilo-official/index.html",
     "main.d3e3a519.css.map": "/protofilo-official/static/css/main.d3e3a519.css.map",
-    "main.1994c2bd.js.map": "/protofilo-official/static/js/main.1994c2bd.js.map",
+    "main.ed05385f.js.map": "/protofilo-official/static/js/main.ed05385f.js.map",
     "787.5c0b2d12.chunk.js.map": "/protofilo-official/static/js/787.5c0b2d12.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d3e3a519.css",
-    "static/js/main.1994c2bd.js"
+    "static/js/main.ed05385f.js"
   ]
 }
