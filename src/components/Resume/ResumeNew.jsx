@@ -9,7 +9,7 @@ import "react-pdf/dist/esm/Page/AnnotationLayer.css";
 pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.min.js`;
 
 const resumeLink =
-  "https://raw.githubusercontent.com/ibrahimnady/protofilo-official/main/src/Assets/CV-ibrahim-nady.pdf";
+  "https://raw.githubusercontent.com/ibrahimnady/protofilo-official/master/src/Assets/CV-ibrahim-nady.pdf";
 // const resumeLink =
 // "http://localhost:3000/static/media/CV-ibrahim-nady.c788a70bda65f5a828b6.pdf";
 
@@ -31,7 +31,7 @@ function ResumeNew() {
           </Button>
         </Row>
 
-        {/* <Row className="resume">
+        <Row className="resume">
           <Document file={resumeLink} className="d-flex justify-content-center">
             <Page pageNumber={1} scale={width > 786 ? 1.7 : 0.6} />
           </Document>
@@ -42,7 +42,7 @@ function ResumeNew() {
             <AiOutlineDownload />
             &nbsp;Download CV
           </Button>
-        </Row> */}
+        </Row>
       </Container>
     </div>
   );
