@@ -1,6 +1,7 @@
 import React from "react";
 import { Col, Row } from "react-bootstrap";
 import { CgCPlusPlus } from "react-icons/cg";
+import {SiAdobeaftereffects , SiAdobeindesign , SiAdobepremierepro , SiAdobexd , SiAdobe} from "react-icons/si";
 import {VscJson} from "react-icons/vsc"
 import {
   DiJavascript1,
@@ -14,7 +15,6 @@ import {
   DiCss3,
   DiHtml5,
   DiIllustrator,
-  
   DiGit,
 } from "react-icons/di";
 import {
@@ -67,6 +67,21 @@ function Techstack() {
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiIllustrator style={{color:"#fbb034"}}/>
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiAdobeindesign style={{color:"#f73163"}}/>
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiAdobeaftereffects style={{color:"#9999ff"}}/>
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiAdobepremierepro style={{color:"#9999ff"}}/>
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiAdobexd style={{color:"#ff61f6"}}/>
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiAdobe style={{color:"#d62119"}}/>
       </Col>
     </Row>
   );

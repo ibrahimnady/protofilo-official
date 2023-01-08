@@ -163,7 +163,7 @@ function Projects() {
               title="Protofilo"
               description="This Site Was Created by html , css , react.js ,bootstrap ,reactIcons , reactstrap and fontawesome"
               ghLink="https://github.com/ibrahimnady"
-              demoLink="/"      
+              demoLink="https://ibrahimnady.github.io/protofilo-official/"      
             />
           </Col>
           <Col md={4} className="project-card">
