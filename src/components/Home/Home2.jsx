@@ -78,7 +78,7 @@ function Home2() {
                 </a>
               </li>
               <li className="social-icons">
-                <a href="https://www.facebook.com/ebraheem.nady" target="_blank" rel="noreferrer" className="icon-colour home-social-icons">
+                <a href="https://www.facebook.com/IbrahimNady0" target="_blank" rel="noreferrer" className="icon-colour home-social-icons">
                   <AiFillFacebook />
                 </a>
               </li>
