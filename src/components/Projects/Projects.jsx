@@ -162,7 +162,7 @@ function Projects() {
               isBlog={false}
               title="Protofilo"
               description="This Site Was Created by html , css , react.js ,bootstrap ,reactIcons , reactstrap and fontawesome"
-              ghLink="https://github.com/ibrahimnady"
+              ghLink="https://github.com/ibrahimnady/protofilo-official.git"
               demoLink="https://ibrahimnady.github.io/protofilo-official/"      
             />
           </Col>
