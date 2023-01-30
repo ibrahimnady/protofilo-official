@@ -142,7 +142,7 @@ function Projects() {
               isBlog={false}
               title="Protofilo V-1"
               description="This Site Was Created by html , css , js and fontawesome "
-              ghLink="https://github.com/ibrahimnady/protofilo-V-1.git"
+              ghLink="https://github.com/ibrahimnady/protofilo-V-1.git" 
               demoLink="https://ibrahimnady.github.io/protofilo-V-1/"      
             />
           </Col>
