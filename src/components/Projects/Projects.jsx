@@ -14,6 +14,7 @@ import card_name from "../../Assets/Projects/curd-name.png"
 import Registration_page from "../../Assets/Projects/Registration-page.png"
 import protofilo_v_1 from "../../Assets/Projects/protofilo-V-1.png"
 import protofilo_v_2 from "../../Assets/Projects/protofilo-v-2.png"
+import notes from "../../Assets/Projects/Notes.jpg"
 import game from "../../Assets/Projects/game.png"
 import begginer_projects from "../../Assets/Projects/begginerProjects.png"
 
@@ -40,6 +41,16 @@ function Projects() {
             />
           </Col>
 
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={notes}
+              isBlog={false}
+              title="Note's"
+              description="This Site Was Created by html , css , react.js , bootstrap , reactstrap , Mui and fontawesome"
+              ghLink="https://github.com/ibrahimnady.github.io/notes.git"
+              demoLink="https://ibrahimnady.github.io/notes/"
+            />
+          </Col>
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={dashboard_control}
@@ -142,7 +153,7 @@ function Projects() {
               isBlog={false}
               title="Protofilo V-1"
               description="This Site Was Created by html , css , js and fontawesome "
-              ghLink="https://github.com/ibrahimnady/protofilo-V-1.git" 
+              ghLink="https://github.com/ibrahimnady/protofilo-V-1.git"
               demoLink="https://ibrahimnady.github.io/protofilo-V-1/"      
             />
           </Col>
