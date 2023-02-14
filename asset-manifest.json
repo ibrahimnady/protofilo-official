@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/protofilo-official/static/css/main.d3e3a519.css",
-    "main.js": "/protofilo-official/static/js/main.406c0056.js",
+    "main.js": "/protofilo-official/static/js/main.db7a1321.js",
     "static/js/787.5c0b2d12.chunk.js": "/protofilo-official/static/js/787.5c0b2d12.chunk.js",
     "static/media/CV-ibrahim-nady.pdf": "/protofilo-official/static/media/CV-ibrahim-nady.bf5a292faf4dbd986c83.pdf",
     "static/media/Movi_nexo.png": "/protofilo-official/static/media/Movi_nexo.ef6fbd92f8db89e99cde.png",
@@ -21,6 +21,7 @@
     "static/media/fa-brands-400.woff2": "/protofilo-official/static/media/fa-brands-400.3ac6859b28be946745f9.woff2",
     "static/media/about.png": "/protofilo-official/static/media/about.aee0f771fbfc1e7b8fa8.png",
     "static/media/Dashboard-Control.png": "/protofilo-official/static/media/Dashboard-Control.a20f1a5edbe57083915f.png",
+    "static/media/Notes.jpg": "/protofilo-official/static/media/Notes.94081defd30fae15a556.jpg",
     "static/media/System-Salse.png": "/protofilo-official/static/media/System-Salse.3e290bf7af158c3294d8.png",
     "static/media/fa-regular-400.ttf": "/protofilo-official/static/media/fa-regular-400.3cd9fb8fcec4ad0f99d4.ttf",
     "static/media/Crud-system.png": "/protofilo-official/static/media/Crud-system.6c690d3238a3522dd207.png",
@@ -34,11 +35,11 @@
     "static/media/pre.svg": "/protofilo-official/static/media/pre.4410c5baaa673cc131da.svg",
     "index.html": "/protofilo-official/index.html",
     "main.d3e3a519.css.map": "/protofilo-official/static/css/main.d3e3a519.css.map",
-    "main.406c0056.js.map": "/protofilo-official/static/js/main.406c0056.js.map",
+    "main.db7a1321.js.map": "/protofilo-official/static/js/main.db7a1321.js.map",
     "787.5c0b2d12.chunk.js.map": "/protofilo-official/static/js/787.5c0b2d12.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d3e3a519.css",
-    "static/js/main.406c0056.js"
+    "static/js/main.db7a1321.js"
   ]
 }
