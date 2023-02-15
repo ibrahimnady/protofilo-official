@@ -46,7 +46,7 @@ function Projects() {
               imgPath={notes}
               isBlog={false}
               title="Note's"
-              description="This Site Was Created by html , css , react.js , bootstrap , reactstrap , Mui , fontawesome and use API "
+              description="This Site Was Created by html , css , react.js , bootstrap , reactstrap , Mui , fontawesome and use API"
               ghLink="https://github.com/ibrahimnady.github.io/notes.git"
               demoLink="https://ibrahimnady.github.io/notes/"
             />
