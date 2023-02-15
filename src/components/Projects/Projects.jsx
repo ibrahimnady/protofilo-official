@@ -14,7 +14,7 @@ import card_name from "../../Assets/Projects/curd-name.png"
 import Registration_page from "../../Assets/Projects/Registration-page.png"
 import protofilo_v_1 from "../../Assets/Projects/protofilo-V-1.png"
 import protofilo_v_2 from "../../Assets/Projects/protofilo-v-2.png"
-import notes from "../../Assets/Projects/Notes.jpg"
+import notes from "../../Assets/Projects/Notes.png"
 import game from "../../Assets/Projects/game.png"
 import begginer_projects from "../../Assets/Projects/begginerProjects.png"
 
@@ -46,7 +46,7 @@ function Projects() {
               imgPath={notes}
               isBlog={false}
               title="Note's"
-              description="This Site Was Created by html , css , react.js , bootstrap , reactstrap , Mui , fontawesome and use API"
+              description="This Site Was Created by html , css , react.js , bootstrap , reactstrap , Mui , fontawesome and use API "
               ghLink="https://github.com/ibrahimnady.github.io/notes.git"
               demoLink="https://ibrahimnady.github.io/notes/"
             />
