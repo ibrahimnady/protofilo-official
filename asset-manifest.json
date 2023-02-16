@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/protofilo-official/static/css/main.d3e3a519.css",
+    "main.css": "/protofilo-official/static/css/main.c37c014c.css",
     "main.js": "/protofilo-official/static/js/main.bb41b3bb.js",
     "static/js/787.5c0b2d12.chunk.js": "/protofilo-official/static/js/787.5c0b2d12.chunk.js",
     "static/media/CV-ibrahim-nady.pdf": "/protofilo-official/static/media/CV-ibrahim-nady.bf5a292faf4dbd986c83.pdf",
@@ -34,12 +34,12 @@
     "static/media/fa-v4compatibility.woff2": "/protofilo-official/static/media/fa-v4compatibility.4ee7f902d88f819e251c.woff2",
     "static/media/pre.svg": "/protofilo-official/static/media/pre.4410c5baaa673cc131da.svg",
     "index.html": "/protofilo-official/index.html",
-    "main.d3e3a519.css.map": "/protofilo-official/static/css/main.d3e3a519.css.map",
+    "main.c37c014c.css.map": "/protofilo-official/static/css/main.c37c014c.css.map",
     "main.bb41b3bb.js.map": "/protofilo-official/static/js/main.bb41b3bb.js.map",
     "787.5c0b2d12.chunk.js.map": "/protofilo-official/static/js/787.5c0b2d12.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d3e3a519.css",
+    "static/css/main.c37c014c.css",
     "static/js/main.bb41b3bb.js"
   ]
 }
