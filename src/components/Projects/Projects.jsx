@@ -16,7 +16,6 @@ import protofilo_v_1 from "../../Assets/Projects/protofilo-V-1.png"
 import protofilo_v_2 from "../../Assets/Projects/protofilo-v-2.png"
 import notes from "../../Assets/Projects/Notes.png"
 import game from "../../Assets/Projects/game.png"
-import begginer_projects from "../../Assets/Projects/begginerProjects.png"
 
 function Projects() {
   return (
@@ -185,16 +184,6 @@ function Projects() {
               description="This Site Was Created by html , css ,js ,bootstrap and fontawesome"
               ghLink="https://github.com/ibrahimnady/game-xo.git"
               demoLink="https://ibrahimnady.github.io/game-xo/"      
-            />
-          </Col>
-          <Col md={4} className="project-card">
-            <ProjectCard
-              imgPath={begginer_projects}
-              isBlog={false}
-              title="Begginer Projects"
-              description="This Site Was Created by html , css ,js ,bootstrap and fontawesome"
-              ghLink="https://github.com/ibrahimnady/begginer-projects.git"
-              demoLink="https://ibrahimnady.github.io/begginer-projects/"      
             />
           </Col>
         </Row>
