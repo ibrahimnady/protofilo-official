@@ -35,7 +35,7 @@ function Projects() {
               imgPath={GoLearn}
               isBlog={false}
               title="Go-Learn"
-              description="This Site Full-stack Was Created by Html , Css , Next.js , Tailwind CSS , Material UI and Node.js"
+              description="This Site Full-Stack Was Created by Html , Css , Next.js , Tailwind CSS , Material UI and Node.js"
               ghLink="https://github.com/ibrahimnady/go-learn.git"
               demoLink="https://go-learn-henna.vercel.app/"
             />
