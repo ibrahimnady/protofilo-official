@@ -16,6 +16,7 @@ import protofilo_v_1 from "../../Assets/Projects/protofilo-V-1.png"
 import protofilo_v_2 from "../../Assets/Projects/protofilo-v-2.png"
 import notes from "../../Assets/Projects/Notes.png"
 import game from "../../Assets/Projects/game.png"
+import GoLearn from "../../Assets/Projects/Go-Learn.png"
 
 function Projects() {
   return (
@@ -29,6 +30,16 @@ function Projects() {
           Here are a few projects I've worked on recently.
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={GoLearn}
+              isBlog={false}
+              title="Go-Learn"
+              description="This Site Full-stack Was Created by Html , Css , Next.js , Tailwind CSS , Material UI and Node.js"
+              ghLink="https://github.com/ibrahimnady/go-learn.git"
+              demoLink="https://go-learn-henna.vercel.app/"
+            />
+          </Col>
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={dashboard}
