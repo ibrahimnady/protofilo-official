@@ -40,6 +40,7 @@ function Projects() {
               demoLink="https://go-learn-henna.vercel.app/"
             />
           </Col>
+
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={dashboard}
@@ -61,6 +62,7 @@ function Projects() {
               demoLink="https://ibrahimnady.github.io/notes/"
             />
           </Col>
+          
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={dashboard_control}
